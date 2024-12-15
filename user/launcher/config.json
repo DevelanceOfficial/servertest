@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "Russian",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": true,
+  "GamePath": "C:\\SPT",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "Gudilator",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "http://26.102.143.122:6969"
+  }
+}
